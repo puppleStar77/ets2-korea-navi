@@ -1,3 +1,14 @@
+###### KOREAN NAVIGATION PROJECT # ################
+꼬리안의 내비를 유로트럭에 구현해보기 위한 프로젝트
+
+TODO
+1. 하이패스 요금소 안내
+2. 하이패스 차선안내
+3. 정차/무정차 하이패스 안내
+3. 고속도로톨게이트 출구 안내 개선
+4.  로터리 안내 개선
+
+
 # FMOD sound plugin for ATS/ETS2
 
 A telemetry plugin for ATS/ETS2 that includes an FMOD instance so that you can use FMOD sound mods.
