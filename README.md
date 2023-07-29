@@ -9,8 +9,7 @@ TODO
 4.  로터리 안내 개선
 
 본 프로젝트는 ts-fmod-sound-plugin을 이용하여 한국형 내비게이션 안내 시스템을 구현해보려는 프로젝트입니다.
-
-
+근데 이거 https://github.com/mike-koch/ets2-mobile-route-advisor 연동하면 모바일 핸드폰에서 유로트럭 안내도 될건데 음
 
 # FMOD sound plugin for ATS/ETS2
 
