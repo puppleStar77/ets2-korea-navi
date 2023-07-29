@@ -8,6 +8,9 @@ TODO
 3. 고속도로톨게이트 출구 안내 개선
 4.  로터리 안내 개선
 
+본 프로젝트는 ts-fmod-sound-plugin을 이용하여 한국형 내비게이션 안내 시스템을 구현해보려는 프로젝트입니다.
+
+
 
 # FMOD sound plugin for ATS/ETS2
 
